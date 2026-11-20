@@ -224,3 +224,4 @@ __marimo__/
 
 #Database
 *.db
+.DS_Store
